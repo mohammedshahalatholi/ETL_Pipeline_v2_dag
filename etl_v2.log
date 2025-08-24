@@ -1,0 +1,52 @@
+2025-08-24 00:55:44,117 - INFO - Database connection established
+2025-08-24 00:55:44,117 - INFO - Cursor created
+2025-08-24 00:56:49,111 - INFO - Database connection established
+2025-08-24 00:56:49,112 - INFO - Cursor created
+2025-08-24 00:56:49,118 - INFO - Data extracted successfully
+2025-08-24 00:56:49,118 - INFO - Extract process completed successfully
+2025-08-24 01:04:54,908 - INFO - Database connection established
+2025-08-24 01:04:54,909 - INFO - Cursor created
+2025-08-24 01:04:54,917 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 01:04:54,917 - INFO - Data transformed successfully
+2025-08-24 03:40:07,293 - INFO - Database connection established
+2025-08-24 03:40:07,683 - INFO - Cursor created
+2025-08-24 03:40:07,739 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 03:40:07,739 - INFO - Data transformed successfully: [{'list_item': 'ItemB', 'total_sales': 3800, 'total_orders': 77}, {'list_item': 'ItemE', 'total_sales': 3150, 'total_orders': 69}, {'list_item': 'ItemC', 'total_sales': 2250, 'total_orders': 54}, {'list_item': 'ItemF', 'total_sales': 2000, 'total_orders': 44}, {'list_item': 'ItemH', 'total_sales': 2000, 'total_orders': 35}, {'list_item': 'ItemA', 'total_sales': 1700, 'total_orders': 42}, {'list_item': 'ItemD', 'total_sales': 1100, 'total_orders': 28}, {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}]
+2025-08-24 03:40:41,809 - INFO - Database connection established
+2025-08-24 03:40:41,809 - INFO - Cursor created
+2025-08-24 03:40:41,813 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 03:40:41,813 - INFO - Data transformed successfully: [{'list_item': 'ItemB', 'total_sales': 3800, 'total_orders': 77}, {'list_item': 'ItemE', 'total_sales': 3150, 'total_orders': 69}, {'list_item': 'ItemC', 'total_sales': 2250, 'total_orders': 54}, {'list_item': 'ItemF', 'total_sales': 2000, 'total_orders': 44}, {'list_item': 'ItemH', 'total_sales': 2000, 'total_orders': 35}, {'list_item': 'ItemA', 'total_sales': 1700, 'total_orders': 42}, {'list_item': 'ItemD', 'total_sales': 1100, 'total_orders': 28}, {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}]
+2025-08-24 03:43:59,285 - INFO - Database connection established
+2025-08-24 03:43:59,285 - INFO - Cursor created
+2025-08-24 03:43:59,292 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 03:43:59,294 - INFO - Data transformed successfully: [{'list_item': 'ItemB', 'total_sales': 3800, 'total_orders': 77}, {'list_item': 'ItemE', 'total_sales': 3150, 'total_orders': 69}, {'list_item': 'ItemC', 'total_sales': 2250, 'total_orders': 54}, {'list_item': 'ItemF', 'total_sales': 2000, 'total_orders': 44}, {'list_item': 'ItemH', 'total_sales': 2000, 'total_orders': 35}, {'list_item': 'ItemA', 'total_sales': 1700, 'total_orders': 42}, {'list_item': 'ItemD', 'total_sales': 1100, 'total_orders': 28}, {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}]
+2025-08-24 04:35:41,675 - INFO - Database connection established
+2025-08-24 04:35:41,675 - INFO - Cursor created
+2025-08-24 04:35:41,679 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 04:35:41,681 - INFO - Data transformed successfully: {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}
+2025-08-24 04:35:41,693 - INFO - Data loaded successfully
+2025-08-24 04:38:34,743 - INFO - Database connection established
+2025-08-24 04:38:34,743 - INFO - Cursor created
+2025-08-24 04:38:34,746 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 04:38:34,747 - INFO - Data transformed successfully: {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}
+2025-08-24 04:38:34,752 - INFO - Data loaded successfully
+2025-08-24 06:01:48,177 - INFO - Database connection established
+2025-08-24 06:01:48,278 - INFO - Cursor created
+2025-08-24 06:01:48,289 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 06:01:48,293 - INFO - Data transformed successfully: {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}
+2025-08-24 06:01:48,311 - INFO - Data loaded successfully
+2025-08-24 06:19:54,112 - INFO - Database connection established
+2025-08-24 06:19:54,112 - INFO - Cursor created
+2025-08-24 06:19:54,121 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 06:19:54,124 - INFO - Data transformed successfully: {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}
+2025-08-24 06:19:54,139 - INFO - Data loaded successfully
+2025-08-24 06:20:22,977 - INFO - Database connection established
+2025-08-24 06:20:22,978 - INFO - Cursor created
+2025-08-24 06:20:23,008 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 06:20:23,026 - INFO - Data transformed successfully: {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}
+2025-08-24 06:20:23,051 - INFO - Data loaded successfully
+2025-08-24 06:21:43,567 - INFO - Database connection established
+2025-08-24 06:21:43,568 - INFO - Cursor created
+2025-08-24 06:21:43,577 - INFO - Data extracted successfully: [('ItemB', 3800, 77), ('ItemE', 3150, 69), ('ItemC', 2250, 54), ('ItemF', 2000, 44), ('ItemH', 2000, 35), ('ItemA', 1700, 42), ('ItemD', 1100, 28), ('ItemG', 500, 14)]
+2025-08-24 06:21:43,580 - INFO - Data transformed successfully: {'list_item': 'ItemG', 'total_sales': 500, 'total_orders': 14}
+2025-08-24 06:21:43,594 - INFO - Data loaded successfully
